@@ -1,0 +1,17 @@
+From: support@paypa1.com
+To: student@example.com
+Subject: Urgent: Account Suspended — Verify Now
+
+Date: Mon, 22 Sep 2025 09:12:03 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We detected suspicious activity on your PayPal account and have <b>suspended</b> it for your protection. To restore access, please verify your account within 24 hours:</p>
+<p><a href="http://secure-paypal-login.xyz">Click here to verify your account</a></p>
+<p>If you don't verify, your account will be permanently closed.</p>
+<p>Regards,<br>PayPal Support Team</p>
+</body>
+</html>
