@@ -1,4 +1,4 @@
-# Phishing Email Analysis - Task 2
+# Phishing Email Analysis 
 
 This repo contains a phishing email sample, analysis report, and screenshots for Task 2.
 
